@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: ""
 ---
 
 Information about me. Information about me. Information about me. Information about me. Information about me. Information about me. 
