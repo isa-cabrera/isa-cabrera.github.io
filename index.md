@@ -3,7 +3,7 @@ layout: page
 title: "marisabel (isa) cabrera"
 ---
 
-Welcome! I am a third-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory using experimental and computational methods in the lab. I'm also interested in fieldwork and nasal harmony. 
+Welcome! I am a third-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory using experimental and computational methods in the lab. I'm also interested in fieldwork, nasal harmony, and typology and variation. 
 
 ## contact
 
@@ -19,11 +19,11 @@ I'm interested in evaluating the representational commitments phonological theor
 
 ## fieldwork
 
-I've done fieldwork on two native languages spoken in the Americas. Through UCLA's Field Methods graduate course, I conducted fieldwork on Cantel K'iche', spoken in Guatemala, focusing on the language's ergative extraction constraint, agreement patterns, and tense/modality. I then started remote fieldwork on Paraguayan Guarani in April of 2022, and conducted in-situ fieldwork in Coronel Oviedo, Paraguay during the summer of 2022. My fieldwork on Guarani focuses on nasal harmony. Nasal harmony in Guarani is interesting because of the presence of nasal-oral stops (prenasalized or postoralized), the special status of suffixes, and the major differences between regressive and progressive nasalization. I've also collaborated on research on the intonational system of the language. 
+I've done fieldwork on two native languages spoken in the Americas. Through UCLA's Field Methods graduate course, I conducted fieldwork on Cantel K'iche', spoken in Guatemala, focusing on the language's ergative extraction constraint, agreement patterns, and tense/modality. I then started remote fieldwork on Paraguayan Guarani in April of 2022, and conducted in-situ fieldwork in Coronel Oviedo, Paraguay during the summer of 2022. My fieldwork on Guarani focuses on nasal harmony. Nasal harmony in Guarani is interesting because of the presence of nasal-oral stops, the special status of suffixes, the exceptionality and micro-variation of progressive harmony, and the major differences between regressive and progressive nasalization. I've also collaborated on research on the intonational system of the language. 
 
 ## publications, presentations, and manuscripts
 
-Cabrera, Marisabel. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. 
+Cabrera, Marisabel. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. Advised by Benjamin Eischens, Claire Moore-Cantwell, Harold Torrence, and Kie Zuraw. 
 
 Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>]
 
