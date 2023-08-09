@@ -3,7 +3,7 @@ layout: page
 title: "marisabel (isa) cabrera"
 ---
 
-Welcome! I am a third-year graduate student in the Department of Linguistics at UCLA. I work on questions related to phonological theory using experimental and computational methods in the lab. I'm also interested in fieldwork and nasal harmony. 
+Welcome! I am a third-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory using experimental and computational methods in the lab. I'm also interested in fieldwork and nasal harmony. 
 
 ## contact
 
@@ -25,7 +25,7 @@ I've done fieldwork on two native languages spoken in the Americas. Through UCLA
 
 Cabrera, Marisabel. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. 
 
-Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [poster][pre-publication paper]
+Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>]
 
 ## seminar presentations
 
