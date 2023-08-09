@@ -21,8 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Twitter", url: "https://twitter.com/MCabrera__"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "isacabrera@ucla.edu"}
-  - {title: Github, icon: github, url: "https://isacabrerasan.github.io"}
+  - {title: Mail, icon: envelope, url: "mailto:isacabrera@ucla.edu"}
+  - {title: Github, icon: github, url: "https://isa-cabrera.github.io"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MCabrera__"}
 
 comments:
