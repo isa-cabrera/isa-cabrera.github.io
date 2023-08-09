@@ -11,7 +11,7 @@ Welcome! I am a third-year graduate student in the [Department of Linguistics at
 
 ## cv
 
-You can find my CV here. 
+You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
 ## theory and experimental phonology
 
@@ -29,9 +29,9 @@ Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of
 
 ## seminar presentations
 
-Spring 2023 - Unifying regressive and progressive nasalization in Paraguayan Guarani. Presented at the UCLA Phonology Seminar. 
+Spring 2023 - Unifying regressive and progressive nasalization in Paraguayan Guarani. Presented at the UCLA Phonology Seminar. [handout]
 
-Winter 2023 - Nasal harmony in Paraguayan Guarani: Analyzing regressive nasalization. Presented at the UCLA Phonology Seminar.
+Winter 2023 - Nasal harmony in Paraguayan Guarani: Analyzing regressive nasalization. Presented at the UCLA Phonology Seminar. [handout]
 
 ## teaching
 
