@@ -37,9 +37,9 @@ I've done fieldwork on two native languages spoken in the Americas. Through UCLA
 
 Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>]
 
-Engst, Tristan & **Marisabel Cabrera**. 2022. LASER: Linguistically aware subword embeddings for recurrent neural networks. Computational Psycholinguistics Discussions Lab (C.PsyD), Cornell University. 
+Engst, Tristan & **Marisabel Cabrera**. 2022. LASER: Linguistically aware subword embeddings for recurrent neural networks. Presented at the Computational Psycholinguistics Discussions Lab (C.PsyD), Cornell University. 
 
-**Cabrera, Marisabel**. 2022. Functional trade-offs between morphology and syntax: An empirical study. Cornell University Undergraduate Linguistics Colloquium, Cornell University. 
+**Cabrera, Marisabel**. 2022. Functional trade-offs between morphology and syntax: An empirical study. Presented at the Cornell University Undergraduate Linguistics Colloquium, Cornell University. 
 
 ## seminar presentations
 
