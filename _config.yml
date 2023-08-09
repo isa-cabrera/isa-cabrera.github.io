@@ -16,13 +16,13 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "isacabrera_cv.pdf", title: "CV"}
+  - {file: "cv.pdf", title: "CV"}
   - {title: "More about me", file: "aboutme.md"}
   - {title: "Twitter", url: "https://twitter.com/MCabrera__"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:isacabrera@ucla.edu"}
-  - {title: Github, icon: github, url: "https://isa-cabrera.github.io"}
+  - {title: Github, icon: github, url: "https://github.com/isa-cabrera"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/MCabrera__"}
 
 comments:
