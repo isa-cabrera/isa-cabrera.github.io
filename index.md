@@ -3,13 +3,11 @@ layout: page
 title: "marisabel (isa) cabrera"
 ---
 
-Welcome! I am a third-year graduate student in the Department of Linguistics at UCLA. I work on questions related to phonological theory using experimental and computational methods in the lab. I'm also interested in fieldwork. 
+Welcome! I am a third-year graduate student in the Department of Linguistics at UCLA. I work on questions related to phonological theory using experimental and computational methods in the lab. I'm also interested in fieldwork and nasal harmony. 
 
 ## contact
 
 `` isacabrera`` at ``ucla`` dot ``edu``
-
-Find me on Twitter here!
 
 ## cv
 
@@ -17,15 +15,23 @@ You can find my CV here.
 
 ## theory and experimental phonology
 
-Input-output vs. output-output faithfulness in Optimality Theory, UR learning and the structure of the lexicon, cumulative constraint interactions. 
+I'm interested in evaluating the representational commitments phonological theories make through experimental and computational research. More specifically, I'm interested in how speakers learn simultaneously learn a grammar and the lexicon, and the different predictions theories make about such process. I'm currently investigating the learning of cumulative constraint interactions through artificial grammar learning experiments with the goal of understanding how faithfulness is learned and how the learning of faithfulness constraints can be modeled computationally. 
 
 ## fieldwork
 
-I've done fielwork on two native languages spoken in the Americas. Through UCLA's Field Methods graduate course, I conducted fieldwork on Cantel K'iche', spoken in Guatemala, on a description of the ergative-extraction constraints and agreement patterns. I later started remote fieldwork on Paraguayan Guarani in April of 2022, and conducted in-situ fieldwork in Coronel Oviedo, Paraguay during the summer of 2022. My fieldwork on Guarani focuses on nasal harmony. Nasal harmony in Guarani is interesting because of nasal-oral stops (prenasalized or postoralized), the behavior of suffixes, and the exceptionality of progressive nasalization. 
+I've done fieldwork on two native languages spoken in the Americas. Through UCLA's Field Methods graduate course, I conducted fieldwork on Cantel K'iche', spoken in Guatemala, focusing on the language's ergative extraction constraint, agreement patterns, and tense/modality. I then started remote fieldwork on Paraguayan Guarani in April of 2022, and conducted in-situ fieldwork in Coronel Oviedo, Paraguay during the summer of 2022. My fieldwork on Guarani focuses on nasal harmony. Nasal harmony in Guarani is interesting because of the presence of nasal-oral stops (prenasalized or postoralized), the special status of suffixes, and the major differences between regressive and progressive nasalization. I've also collaborated on research on the intonational system of the language. 
 
-## publications and presentations
+## publications, presentations, and manuscripts
+
+Cabrera, Marisabel. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. 
 
 Jun, Sun-Ah, Jian-Leat Siah, Marisabel Cabrera & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [poster][pre-publication paper]
+
+## seminar presentations
+
+Spring 2023 - Unifying regressive and progressive nasalization in Paraguayan Guarani. Presented at the UCLA Phonology Seminar. 
+
+Winter 2023 - Nasal harmony in Paraguayan Guarani: Analyzing regressive nasalization. Presented at the UCLA Phonology Seminar.
 
 ## teaching
 
