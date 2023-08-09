@@ -3,6 +3,16 @@ layout: page
 title: "marisabel (isa) cabrera"
 ---
 
+<img align="right" src="/assets/headshot.png" class="responsive" width="200" height="200"/>
+
+
+<!--<img
+  srcset="/assets/headshot.png 10w, /assets/headshot.png 10w"
+  sizes="max-width: 10%;
+         width:10%"
+  src="/assets/headshot.png"
+/>-->
+
 Welcome! I am a third-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory using experimental and computational methods in the lab. I'm also interested in fieldwork, nasal harmony, and typology and variation. 
 
 ## contact
