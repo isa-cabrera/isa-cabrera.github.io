@@ -3,7 +3,7 @@ layout: page
 title: "marisabel (isa) cabrera"
 ---
 
-<img align="right" src="/assets/headshot.png" class="responsive" width="250" height="250" style="padding-right:10px"/>
+<img align="right" src="/assets/headshot.png" class="responsive" width="250" height="250" style="padding-left:20px"/>
 
 
 <!--<img
