@@ -2,7 +2,7 @@
 
 **Cabrera, Marisabel**. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. Advised by Benjamin Eischens, Claire Moore-Cantwell, Harold Torrence, and Kie Zuraw. 
 
-Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>]
+Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [<a href="/assets/jun-siah-cabrera-johnson-paper.pdf" target="_blank">pre-publication paper</a>]
 
 Engst, Tristan & **Marisabel Cabrera**. 2021. LASER: Linguistically aware subword embeddings for recurrent neural networks. Presented at the Computational Psycholinguistics Discussions Lab (C.PsyD), Cornell University. 
 
