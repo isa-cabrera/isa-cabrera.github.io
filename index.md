@@ -25,7 +25,7 @@ You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
 ## theory and experimental phonology
 
-I'm interested in evaluating the representational commitments phonological theories make through experimental and computational research. More specifically, I'm interested in how speakers simultaneously learn a grammar and a lexicon, and the different predictions theories make about such process. I'm currently investigating the learning of cumulative constraint interactions through artificial grammar learning experiments with the goal of understanding how faithfulness is learned and how it can be modeled computationally. 
+I'm interested in evaluating the representational commitments phonological theories make through experimental and computational research. More specifically, I'm interested in how speakers simultaneously learn a grammar and a lexicon, and the different predictions theories make about such process. I'm particularly interested in the learnability and representation of faithfulness constraints. I'm currently investigating the learning of cumulative constraint interactions through artificial grammar learning experiments with the goal of understanding how faithfulness is learned and how it can be modeled computationally. 
 
 ## fieldwork
 
