@@ -13,7 +13,7 @@ title: "marisabel (isa) cabrera"
   src="/assets/headshot.png"
 />-->
 
-Welcome! I am a third-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory using experimental and computational methods in the lab. I'm also interested in fieldwork, nasal harmony, morphophonology, and typology and variation. 
+Welcome! I am a third-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory and learnability using experimental and computational methods in the lab. I'm also interested in fieldwork, nasal harmony, morphophonology, and typology and variation. 
 
 ## contact
 
