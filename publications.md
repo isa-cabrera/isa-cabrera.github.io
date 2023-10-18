@@ -1,3 +1,4 @@
+## publications, presentations, and manucripts
 
 **Cabrera, Marisabel**. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. Advised by Benjamin Eischens, Claire Moore-Cantwell, Harold Torrence, and Kie Zuraw. 
 
