@@ -16,7 +16,9 @@ Winter 2023 - Nasal harmony in Paraguayan Guarani: Analyzing regressive nasaliza
 
 ## teaching
 
-(upcoming) Fall 2023 - Ling 120: Phonology I (TA for Benjamin Eischens)
+(upcoming) Winter 2023 - Ling 165A: Computational Linguistics I (TA for Dylan Bumford)
+
+Fall 2023 - Ling 120A: Phonology I (TA for Benjamin Eischens)
 
 Spring 2023 - Ling 20: Introduction to Linguistic Analysis (TA for Stefan Keine)
 
