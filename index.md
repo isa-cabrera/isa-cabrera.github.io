@@ -33,4 +33,4 @@ I've done fieldwork on two native languages spoken in the Americas. Through UCLA
 
 ## news
 
-I'll be presenting at SSILA in January 2024 on suffix independence in Paraguayan Guarani progressive and regressive nasal harmony. 
+I'll be presenting at SSILA in January 2024 on suffix independence in Paraguayan Guarani progressive and regressive nasal harmony, and on wh-questions in Guarani. 
