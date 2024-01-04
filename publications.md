@@ -1,5 +1,7 @@
 ## publications, presentations, and manucripts
 
+**Cabrera, Marisabel**. 2024. Suffix independence in Paraguayan Guarani nasal harmony. Presented at SSILA 2024. [<a href="/assets/cabrera-ssila2024-abstract.pdf" target="_blank">pre-publication paper</a>] [<a href="/assets/cabrera-ssila2024-handout.pdf" target="_blank">handout</a>]
+
 **Cabrera, Marisabel**. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. Advised by Benjamin Eischens, Claire Moore-Cantwell, Harold Torrence, and Kie Zuraw. 
 
 Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [<a href="/assets/jun-siah-cabrera-johnson-paper.pdf" target="_blank">pre-publication paper</a>]
