@@ -1,6 +1,6 @@
 ## presentations and proceedings
 
-**Cabrera, Marisabel**. 2024. Suffix independence in Paraguayan Guarani nasal harmony. SSILA 2024. [<a href="/assets/cabrera-ssila2024-abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/cabrera-ssila2024-handout.pdf" target="_blank">handout</a>]
+**Cabrera, Marisabel**. 2024. Suffix independence in Paraguayan Guarani nasal harmony. SSILA 2024. [<a href="/assets/cabrera-ssila2024-abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/cabrera-ssila2024-handout2.pdf" target="_blank">handout</a>]
 
 Johnson, Hunter & **Marisabel Cabrera**. Wh-question formation strategies in Guarani. SSILA 2024. [<a href="/assets/wh-ssila2024-handout.pdf" target="_blank">handout</a>]
 
