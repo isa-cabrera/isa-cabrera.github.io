@@ -24,10 +24,12 @@ Spring 2021 - Functional trade-offs between morphology and syntax: An empirical 
 
 ## teaching
 
-(current) Winter 2023 - Ling 185A: Computational Linguistics I (TA for Dylan Bumford)
+Spring 2024 - Ling 119A: Applied Phonology (Ta for Sam Zukoff)
+
+Winter 2024 - Ling 185A: Computational Linguistics I (TA for Dylan Bumford)
 
 Fall 2023 - Ling 120A: Phonology I (TA for Benjamin Eischens)
 
 Spring 2023 - Ling 20: Introduction to Linguistic Analysis (TA for Stefan Keine)
 
-Winter 2022 - Ling 132: Language Processing (TA for Jesse Harris)
+Winter 2023 - Ling 132: Language Processing (TA for Jesse Harris)
