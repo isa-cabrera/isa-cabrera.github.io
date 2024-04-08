@@ -25,7 +25,7 @@ You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
 ## theory and experimental phonology
 
-I'm interested in evaluating the representational commitments phonological theories make through experimental and computational research. More specifically, I'm interested in the different ways we can model phonotactics, and how such models make different predictions about cumulativity. 
+I'm interested in evaluating the representational commitments phonological theories make through experimental and computational research. More specifically, I'm interested in the different ways we can model phonotactics and cumulative constraint interactions. I'm currently conducting experiments on native English infants and adults on cumulativity in phonotactics. 
 
 ## fieldwork
 
