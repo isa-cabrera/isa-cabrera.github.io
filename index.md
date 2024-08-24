@@ -13,7 +13,7 @@ title: "marisabel (isa) cabrera"
   src="/assets/headshot.png"
 />-->
 
-Welcome! I am a third-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory and learnability using experimental and computational methods in the lab. I'm also interested in fieldwork, nasal harmony, morphophonology, and typology and variation. 
+Welcome! I am a third-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory, phonological learning, and speech perception using experimental and computational methods in the lab. I'm also interested in fieldwork, nasal harmony, morphophonology, and typology and variation. 
 
 ## contact
 
@@ -23,14 +23,6 @@ Welcome! I am a third-year graduate student in the [Department of Linguistics at
 
 You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 
-## theory and experimental phonology
-
-I'm interested in evaluating the representational commitments phonological theories make through experimental and computational research. More specifically, I'm interested in the different ways we can model phonotactics and cumulative constraint interactions. I'm currently conducting experiments on native English infants and adults on cumulativity in phonotactics. 
-
-## fieldwork
-
-I've done fieldwork on two native languages spoken in the Americas. Through UCLA's Field Methods graduate course, I conducted fieldwork on Cantel K'iche', spoken in Guatemala, focusing on the language's ergative extraction constraint, agreement patterns, and tense/modality. I then started remote fieldwork on Paraguayan Guarani in April of 2022, and conducted in-situ fieldwork in Coronel Oviedo, Paraguay during the summer of 2022. My fieldwork on Guarani focuses on the language's nasal harmony system. Nasal harmony in Guarani is interesting because of the presence of nasal-oral stops, the special status of suffixes, the exceptionality and micro-variation of progressive harmony, and the major grammatical differences between regressive and progressive nasalization. I've also collaborated on research on the intonational system of the language (see [publications](publications.md)). 
-
 ## news
 
-I'll be presenting at SSILA in January 2024 on suffix independence in Paraguayan Guarani progressive and regressive nasal harmony, and on wh-questions in Guarani. 
+I'll be presenting at AMP 2024 on the modeling of cumulative phonotactic effects with MaxEnt grammars. 
