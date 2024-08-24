@@ -24,7 +24,9 @@ Spring 2021 - Functional trade-offs between morphology and syntax: An empirical 
 
 ## teaching
 
-Spring 2024 - Ling 119A: Applied Phonology (Ta for Sam Zukoff)
+Summer 2024 - Ling 132: Language Processing (as primary instructor)
+
+Spring 2024 - Ling 119A: Applied Phonology (TA for Sam Zukoff)
 
 Winter 2024 - Ling 185A: Computational Linguistics I (TA for Dylan Bumford)
 
