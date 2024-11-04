@@ -14,16 +14,6 @@ Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realization
 
 **Cabrera, Marisabel**. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. Advised by Benjamin Eischens, Claire Moore-Cantwell, Harold Torrence, and Kie Zuraw. [paper]
 
-## seminar presentations
-
-Spring 2023 - Unifying regressive and progressive nasalization in Paraguayan Guarani. Presented at the UCLA Phonology Seminar. [handout]
-
-Winter 2023 - Nasal harmony in Paraguayan Guarani: Analyzing regressive nasalization. Presented at the UCLA Phonology Seminar. [handout]
-
-Spring 2021 - Engst, Tristan & **Marisabel Cabrera**. LASER: Linguistically aware subword embeddings for recurrent neural networks. Presented at the Computational Psycholinguistics Discussions Lab (C.PsyD), Cornell University. 
-
-Spring 2021 - Functional trade-offs between morphology and syntax: An empirical study. Presented at the Cornell University Undergraduate Linguistics Colloquium, Cornell University. 
-
 ## teaching
 
 Summer 2024 - Ling 132: Language Processing (as primary instructor)
