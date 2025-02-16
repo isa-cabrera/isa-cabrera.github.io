@@ -1,5 +1,3 @@
-## research
-
 ## publications and proceedings
 
 **Cabrera, Marisabel**. 2024. One-shot vs. competitions phonotactics in modeling constraint cumulativity. AMP 2024. [<a href="/assets/amp2024abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/amp2024slides.pdf" target="_blank">slides</a>] [<a href="/assets/cabrera-proceedings.pdf" target="_blank">pre-publication paper</a>]
