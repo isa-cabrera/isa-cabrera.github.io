@@ -18,6 +18,8 @@ Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realization
 
 ## teaching
 
+Winter 2025 - Ling 20: Introduction to Linguistic Analysis (TA for Thomas Motter)
+
 Summer 2024 - Ling 132: Language Processing (as primary instructor)
 
 Spring 2024 - Ling 119A: Applied Phonology (TA for Sam Zukoff)
