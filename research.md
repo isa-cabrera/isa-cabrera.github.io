@@ -8,19 +8,23 @@ Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realization
 
 ## manuscripts
 
-**Cabrera, Marisabel**. Submitted. Suffix independence in Paraguayan Guarani: stress, nasality and nasalization. 
+**Cabrera, Marisabel**. Under review. Suffix independence in Paraguayan Guarani: stress, nasality and nasalization. 
 
 **Cabrera, Marisabel**. 2023. Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality. MA Thesis, UCLA. Advised by Benjamin Eischens, Claire Moore-Cantwell, Harold Torrence, and Kie Zuraw. 
 
 ## presentations
 
-**Cabrera, Marisabel**. 2024. Suffix independence in Paraguayan Guarani: stress, nasality, and nasalization. Colloquium presentation at California State University, Fresno. [<a href="/assets/cabrera-suffixes-trans.pdf" target="_blank">slides</a>] [<a href="/assets/cabrera-suffixes-notrans.pdf" target="_blank">slides (no transitions)</a>]
+**Cabrera, Marisabel**. 2025. Paraguayan Guarani progressive nasalization as phonologically conditioned allomorphy. Mancheter Phonology Meeting (mfm). Upcoming. 
+
+**Cabrera, Marisabel**. 2024. Suffix independence in Paraguayan Guarani: stress, nasality, and nasalization. Colloquium talk at California State University, Fresno. [<a href="/assets/cabrera-suffixes-trans.pdf" target="_blank">slides</a>] [<a href="/assets/cabrera-suffixes-notrans.pdf" target="_blank">slides (no transitions)</a>]
 
 **Cabrera, Marisabel**. 2024. Suffix independence in Paraguayan Guarani nasal harmony. SSILA 2024. [<a href="/assets/cabrera-ssila2024-abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/cabrera-ssila2024-handout2.pdf" target="_blank">handout</a>]
 
 Johnson, Hunter & **Marisabel Cabrera**. Wh-question formation strategies in Guarani. SSILA 2024. [<a href="/assets/wh-ssila2024-handout.pdf" target="_blank">handout</a>]
 
 ## teaching
+
+Spring 2025 - Ling 132: Language Processing (TA for Jesse Harris)
 
 Winter 2025 - Ling 20: Introduction to Linguistic Analysis (TA for Thomas Motter)
 
