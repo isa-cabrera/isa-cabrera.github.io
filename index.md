@@ -22,7 +22,3 @@ Welcome! I am a third-year graduate student in the [Department of Linguistics at
 ## cv
 
 You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
-
-## news
-
-I'll be presenting at AMP 2024 on the modeling of cumulative phonotactic effects with MaxEnt grammars. 
