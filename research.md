@@ -2,9 +2,9 @@
 
 ## publications and proceedings
 
-**Cabrera, Marisabel**. 2024. One-shot vs. competitions phonotactics in modeling constraint cumulativity. AMP 2024. [<a href="/assets/amp2024abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/amp2024slides.pdf" target="_blank">slides</a>] [[proceedings]](https://openpublishing.library.umass.edu/amphonology/article/id/3013/)
+**Cabrera, Marisabel**. 2024. One-shot vs. competitions phonotactics in modeling constraint cumulativity. AMP 2024. [<a href="/assets/amp2024abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/amp2024slides.pdf" target="_blank">slides</a>] [[proceedings](https://openpublishing.library.umass.edu/amphonology/article/id/3013/)]
 
-Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [<a href="/assets/jun-siah-cabrera-johnson-paper.pdf" target="_blank">pre-publication paper</a>]
+Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realizations of the tritonal pitch accent in Paraguayan Guarani. 20th International Congress of Phonetic Sciences. Prague, Czech Republic. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [[proceedings](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/109.pdf)]
 
 ## manuscripts
 
