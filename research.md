@@ -14,7 +14,7 @@ Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realization
 
 ## presentations
 
-**Cabrera, Marisabel**. 2025. Paraguayan Guarani progressive nasalization as phonologically conditioned allomorphy. Mancheter Phonology Meeting (mfm). Upcoming. 
+**Cabrera, Marisabel**. 2025. Paraguayan Guarani progressive nasalization as phonologically conditioned allomorphy. Mancheter Phonology Meeting (mfm). [<a href="/assets/mfm-handout.pdf" target="_blank">handout</a>]
 
 **Cabrera, Marisabel**. 2024. Suffix independence in Paraguayan Guarani: stress, nasality, and nasalization. Colloquium talk at California State University, Fresno. [<a href="/assets/cabrera-suffixes-trans.pdf" target="_blank">slides</a>] [<a href="/assets/cabrera-suffixes-notrans.pdf" target="_blank">slides (no transitions)</a>]
 
