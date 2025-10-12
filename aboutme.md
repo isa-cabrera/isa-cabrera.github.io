@@ -1,5 +1,3 @@
-## teaching
-
 I've taught a variety of courses at UCLA, both as a teaching assistant and as full instructor. Send me an email if you'd like any of my teaching materials. 
 
 Summer 2025 - Ling 132: Language Processing (as primary instructor)
