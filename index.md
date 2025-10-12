@@ -15,7 +15,7 @@ title: "marisabel (isa) cabrera"
 
 Welcome! I am a fifth-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory, phonological learning, and speech perception using experimental and computational methods in the lab. I'm also interested in fieldwork, nasal harmony, morphophonology, and typology and variation. 
 
-I'm currently working on my dissertation, co-advised by Tim Hunter and Claire Moore-Cantwell. Other members of my committee are Bruce Hayes, Megha Sundara, and Canaan Breiss. My dissertation explores how accumulating phonotactic violations affect probability and acceptability in the predictions of maximum entropy grammars, in the lexicon of languages, and in artificial grammar learning experiments. 
+I'm currently working on my dissertation, co-advised by Tim Hunter and Claire Moore-Cantwell. Other members of my committee are Bruce Hayes, Megha Sundara, and Canaan Breiss. My dissertation explores how accumulating phonotactic violations affect probability and acceptability in the predictions of maximum entropy grammars, in the lexicon of languages, and in artificial grammar learning experiments. Navigate to my research to learn more. 
 
 ## contact
 
