@@ -13,9 +13,11 @@ title: "marisabel (isa) cabrera"
   src="/assets/headshot.png"
 />-->
 
-Welcome! I am a fifth-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory, phonological learning, and speech perception using experimental and computational methods in the lab. I'm also interested in fieldwork, nasal harmony, morphophonology, and typology and variation. 
+Welcome! I am a fifth-year graduate student in the [Department of Linguistics at UCLA](https://linguistics.ucla.edu/). I work on questions related to phonological theory, phonological learning, and speech perception using experimental and computational methods in the lab. 
 
-I'm currently working on my dissertation, co-advised by Tim Hunter and Claire Moore-Cantwell. Other members of my committee are Bruce Hayes, Megha Sundara, and Canaan Breiss. My dissertation explores how accumulating phonotactic violations affect probability and acceptability in the predictions of maximum entropy grammars, in the lexicon of languages, and in artificial grammar learning experiments. Navigate to my research to learn more. 
+I'm currently working on my dissertation, co-advised by [Tim Hunter](https://timhunter.humspace.ucla.edu/) and [Claire Moore-Cantwell](https://www.clairemoorecantwell.org/). Other members of my committee are [Bruce Hayes](https://brucehayes.org/), [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/), and [Canaan Breiss](https://www.cbreiss.com/). My dissertation explores how accumulating phonotactic violations affect probability and acceptability in the predictions of maximum entropy grammars, in the lexicon of languages, and in artificial grammar learning experiments. 
+
+I also investigate the role of abstract phonological knowledge in non-native speech perception. And, I work on the phonology of Paraguayan Guarani, specifically on its leftward and rightward nasalization systems and its interactions with morpohlogical structure and the lexicon. 
 
 ## contact
 
