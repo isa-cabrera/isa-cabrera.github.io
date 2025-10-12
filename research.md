@@ -1,4 +1,4 @@
-My ongoing research currently centers around three projects: cumulative markedness effects, phonology in non-native speech perception, and the phonology of Paraguayan Guarani. 
+My ongoing research currently centers around three projects: cumulative markedness effects, phonology in non-native speech perception, and the phonology of Paraguayan Guarani. For a full list of papers and presentations in these projects, see my CV. 
 
 ## cumulative markedness effects
 
@@ -29,5 +29,7 @@ My research on Paraguayan Guarani centers on the language's nasalization system.
 
 ## non-native speech perception
 
-More recently, I study how listeners perceive, or rather, misperceive, sound patterns that are unattested in their language. We know that listener's knowledge of the distributions of sounds in their language play a role in speech perception because listeners often misperceive unattested sound sequences. However, the exact ways in which these sound sequences are misperceived vary greatly across speakers and languages. This project investigates the extent to which more abstract phonological knowledge, specifically knowledge of a language's *repair processes*, influence non-native speech perception. I'm currently running online speech perception experiments with monolingual speakers of Korean to see if their misperceptions of illegal word-medial consonant clusters are consistent with the native repair processes of these clusters in Korean. I'm also comparing the predictions of various Bayesian models of speech perception that vary in their ability to encode information about the repair processes of the language. 
+More recently, I study how listeners perceive, or rather, misperceive, sound patterns that are unattested in their language. We know that listener's knowledge of the distributions of sounds in their language play a role in speech perception because listeners often misperceive unattested sound sequences. However, the exact ways in which these sound sequences are misperceived vary greatly across speakers and languages. This project investigates the extent to which more abstract phonological knowledge, specifically knowledge of a language's *repair processes*, influence non-native speech perception. 
+
+* I'm currently running online speech perception experiments with monolingual speakers of Korean to see if their misperceptions of illegal word-medial consonant clusters are consistent with the native repair processes of these clusters in Korean. I'm also comparing the predictions of various Bayesian models of speech perception that vary in their ability to encode information about the repair processes of the language. 
 
