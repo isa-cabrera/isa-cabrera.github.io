@@ -1,5 +1,11 @@
 ## research
 
+My ongoing research currently centers around three projects: cumulative markedness effects, phonology in non-native speech perception, and the phonology of Paraguayan Guarani. 
+
+## cumulative markedness effects
+
+Speakers of any language have systematic and impressively detailed intuitions about which sounds and sound sequences are probable and improbable in their language. My research on phonotactics centers on the effects that *multiple instances* of these infrequent sound patterns have on languages and its speakers, and if and how such effects are learned from the distributional properties of sounds in their language(s). For example, the English *th* sound is relatively uncommon yet it occurs in freqnet words such as *think* and *teeth*,, but in English there are rarely any words with two or more *th* sounds and English speakers likely find words like *theeth* to be weird potential words of English. Patterns such as this one, along with speakers' intuitions about them, are interesting because infrequent sounds can have a *stronger* or *weaker* effect when they occur with another instance of a particular sound structure compared to when they occur independently, suggesting that these cumulative interactions among marked sound patterns are learned properties of a language. And, these patterns challenge mainstream models of linguistic knowledge in meaningful ways. 
+
 ## publications and proceedings
 
 **Cabrera, Marisabel**. 2024. One-shot vs. competitions phonotactics in modeling constraint cumulativity. AMP 2024. [<a href="/assets/amp2024abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/amp2024slides.pdf" target="_blank">slides</a>] [[proceedings](https://openpublishing.library.umass.edu/amphonology/article/id/3013/)]
