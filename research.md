@@ -21,21 +21,3 @@ Jun, Sun-Ah, Jian-Leat Siah, **Marisabel Cabrera** & Hunter Johnson. Realization
 **Cabrera, Marisabel**. 2024. Suffix independence in Paraguayan Guarani nasal harmony. SSILA 2024. [<a href="/assets/cabrera-ssila2024-abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/cabrera-ssila2024-handout2.pdf" target="_blank">handout</a>]
 
 Johnson, Hunter & **Marisabel Cabrera**. Wh-question formation strategies in Guarani. SSILA 2024. [<a href="/assets/wh-ssila2024-handout.pdf" target="_blank">handout</a>]
-
-## teaching
-
-Spring 2025 - Ling 132: Language Processing (TA for Jesse Harris)
-
-Winter 2025 - Ling 20: Introduction to Linguistic Analysis (TA for Thomas Motter)
-
-Summer 2024 - Ling 132: Language Processing (as primary instructor)
-
-Spring 2024 - Ling 119A: Applied Phonology (TA for Sam Zukoff)
-
-Winter 2024 - Ling 185A: Computational Linguistics I (TA for Dylan Bumford)
-
-Fall 2023 - Ling 120A: Phonology I (TA for Benjamin Eischens)
-
-Spring 2023 - Ling 20: Introduction to Linguistic Analysis (TA for Stefan Keine)
-
-Winter 2023 - Ling 132: Language Processing (TA for Jesse Harris)
