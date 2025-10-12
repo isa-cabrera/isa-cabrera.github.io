@@ -23,9 +23,9 @@ My research on Paraguayan Guarani centers on the language's nasalization system.
 
 * **Suffix independence in Paraguayan Guarani nasal harmony**. *Presented at SSILA in 2024.* [<a href="/assets/cabrera-ssila2024-abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/cabrera-ssila2024-handout2.pdf" target="_blank">handout</a>]
 
-* **Wh-question formation strategies in Guarani**. With Hunter Johnson. *Presented at SSILA in 2024*. [<a href="/assets/wh-ssila2024-handout.pdf" target="_blank">handout</a>]
+* **Wh-question formation strategies in Guarani**, with Hunter Johnson. *Presented at SSILA in 2024*. [<a href="/assets/wh-ssila2024-handout.pdf" target="_blank">handout</a>]
 
-* **Realizations of the tritonal pitch accent in Paraguayan Guarani**. With Sun-Ah Jun, Jian-Leat Siah, and Hunter Johnson. *Poster and proceedings paper at International Congress of Phonetic Sciences (ICPhS)*. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [[proceedings](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/109.pdf)]
+* **Realizations of the tritonal pitch accent in Paraguayan Guarani**, with Sun-Ah Jun, Jian-Leat Siah, and Hunter Johnson. *Poster and proceedings paper at International Congress of Phonetic Sciences (ICPhS)*. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [[proceedings](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/109.pdf)]
 
 ## non-native speech perception
 
