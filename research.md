@@ -1,4 +1,4 @@
-My ongoing research currently centers around three projects: cumulative markedness effects, phonology in non-native speech perception, and the phonology of Paraguayan Guarani. For a full list of papers and presentations in these projects, see my CV. 
+My ongoing research currently centers around three projects: cumulative markedness effects, phonology in non-native speech perception, and the phonology of Paraguayan Guarani. 
 
 ## cumulative markedness effects
 
@@ -13,19 +13,23 @@ This work details the computational properties of two different maximum entropy 
 
 My research on Paraguayan Guarani centers on the language's nasalization system. Paraguayan Guarani Tupian language spoken by 5 to 6 million people in Paraguay and neighboring areas of Argentina and Brazil. The nasalization system of Guarani is quite complex because the leftward and rightward spread of nasality is strikingly different, therefore making it particularly interesting from the perspective of phonological theory and learnability. 
 
-* **Suffix independence in Paraguayan Guarani: stress, nasality and nasalization**. *Under review*. 
+**Papers**
+
+* **Suffix independence in Paraguayan Guarani: stress, nasality and nasalization**. *Under review*.
+
+* **Realizations of the tritonal pitch accent in Paraguayan Guarani**, with Sun-Ah Jun, Jian-Leat Siah, and Hunter Johnson. *Poster and proceedings paper at International Congress of Phonetic Sciences (ICPhS)*. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [[proceedings](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/109.pdf)]
+
+* **Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality**. *MA Thesis, UCLA.*
+ 
+**Presentations**
 
 * **Paraguayan Guarani progressive nasalization as phonologically conditioned allomorphy**. *Presented at the Manchester Phonology Meeting (mfm) in 2025* [<a href="/assets/mfm-handout.pdf" target="_blank">handout</a>] [<a href="/assets/mfm-slides.pdf" target="_blank">slides</a>]
 
 * **Suffix independence in Paraguayan Guarani: stress, nasality, and nasalization**. *Colloquium talk at California State University, Fresno in 2025* [<a href="/assets/cabrera-suffixes-trans.pdf" target="_blank">slides</a>] [<a href="/assets/cabrera-suffixes-notrans.pdf" target="_blank">slides (no transitions)</a>]
 
-* **Nasal harmony in Paraguayan Guarani: Positional effects and the representation of nasality**. *MA Thesis, UCLA.*
-
 * **Suffix independence in Paraguayan Guarani nasal harmony**. *Presented at SSILA in 2024.* [<a href="/assets/cabrera-ssila2024-abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/cabrera-ssila2024-handout2.pdf" target="_blank">handout</a>]
 
 * **Wh-question formation strategies in Guarani**, with Hunter Johnson. *Presented at SSILA in 2024*. [<a href="/assets/wh-ssila2024-handout.pdf" target="_blank">handout</a>]
-
-* **Realizations of the tritonal pitch accent in Paraguayan Guarani**, with Sun-Ah Jun, Jian-Leat Siah, and Hunter Johnson. *Poster and proceedings paper at International Congress of Phonetic Sciences (ICPhS)*. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [[proceedings](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/109.pdf)]
 
 ## non-native speech perception
 
