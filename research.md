@@ -2,16 +2,18 @@ My ongoing research currently centers around three projects: cumulative markedne
 
 ## cumulative markedness effects
 
-My research on phonotactics centers on the effects that *multiple instances* of these infrequent sound patterns have on languages and its speakers, and if and how such effects are learned from the distributional properties of sounds in their language(s). For example, the English *th* sound occurs in frequent words such as *think* and *teeth*, but in English there are rarely any words with two or more *th* sounds and English speakers likely find words like *''theeth''* to be weird potential words of English. Patterns such as this one, along with speakers' intuitions about them, are interesting because infrequent sounds can have a *stronger* or *weaker* effect when they occur with another instance of a particular sound structure compared to when they occur independently, suggesting that these cumulative interactions among marked sound patterns are phonological properties that the speaker must learn. And, these patterns challenge mainstream models of linguistic knowledge in meaningful ways. 
+My research on phonotactics centers on the effects that *multiple instances* of infrequent sound patterns have on languages and its speakers, and if and how such effects are learned from the distributional properties of sounds in their language(s). For example, the English *th* sound occurs in frequent words such as *think* and *teeth*, but in English there are rarely any words with two or more *th* sounds and English speakers likely find words like *''theeth''* to be weird potential words of English. Patterns such as this one, along with speakers' intuitions about them, are interesting because infrequent sounds can have a *stronger* or *weaker* effect when they occur with another instance of a particular sound structure compared to when they occur independently, posing interesting questions about the variation and learnability of these patterns. And, these patterns challenge mainstream models of linguistic knowledge in meaningful ways. 
 
 * **One-shot vs. competitions phonotactics in modeling constraint cumulativity**. [<a href="/assets/amp2024abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/amp2024slides.pdf" target="_blank">slides</a>] [[proceedings](https://openpublishing.library.umass.edu/amphonology/article/id/3013/)]
 This work details the computational properties of two different maximum entropy model architectures, which I call ''one-shot'' and ''multiple competitions'' models of phonotactics. This work describes the findings for counting cumulativity -- multiple vilolations of the same phonotactic pattern. 
 
-* Stay tuned for my dissertation!
+* **Chapter 2 of my dissertation** is an expanded version of my AMP proceedings paper. [<a href="/assets/chap2-draft.pdf" target="_blank">handout</a>] [<a href="/assets/chap2-draft.pdf" target="_blank">chapter draft</a>]
+
+* Stay tuned for the rest of my dissertation!
 
 ## Paraguayan Guarani
 
-My research on Paraguayan Guarani centers on the language's nasalization system. Paraguayan Guarani Tupian language spoken by 5 to 6 million people in Paraguay and neighboring areas of Argentina and Brazil. The nasalization system of Guarani is quite complex because the leftward and rightward spread of nasality is strikingly different, therefore making it particularly interesting from the perspective of phonological theory and learnability. 
+My research on Paraguayan Guarani centers on the language's nasalization system. Paraguayan Guarani Tupian language spoken by 5 to 6 million people in Paraguay and neighboring areas of Argentina and Brazil. The nasalization system of Guarani is quite complex because the leftward and rightward spread of nasality are strikingly different, therefore making it particularly interesting from the perspective of phonological theory and typology. 
 
 **Papers**
 
@@ -33,7 +35,7 @@ My research on Paraguayan Guarani centers on the language's nasalization system.
 
 ## non-native speech perception
 
-More recently, I study how listeners perceive, or rather, misperceive, sound patterns that are unattested in their language. We know that listener's knowledge of the distributions of sounds in their language play a role in speech perception because listeners often misperceive unattested sound sequences. However, the exact ways in which these sound sequences are misperceived vary greatly across speakers and languages. This project investigates the extent to which more abstract phonological knowledge, specifically knowledge of a language's *repair processes*, influence non-native speech perception. 
+More recently, I study how listeners perceive, or rather, misperceive, sound patterns that are unattested in their language. In addition to speakers knowing which sound sequences occur and don't occur in their language, they also know how their language *repairs* some of these underlying sequences. For example, English speakers know that words should not begin with [pt] or [ps] in English, but they also know that words such as ***pt**erodactly* and ***ps**ychology* are pronounced by omitting the first sound as opposed to saying something like ***pet**erodactyl* or ***p**erodactyl*. We know that speakers misperceive sound sequences unattested in their native language, but it remains unclear if speakers' perception of these non-native patterns is also biased by how their language repairs them. 
 
 * I'm currently running online speech perception experiments with monolingual speakers of Korean to see if their misperceptions of illegal word-medial consonant clusters are consistent with the native repair processes of these clusters in Korean. I'm also comparing the predictions of various Bayesian models of speech perception that vary in their ability to encode information about the repair processes of the language. 
 
