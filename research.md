@@ -13,12 +13,10 @@ My research on phonotactics centers on the effects that *multiple instances* of 
 **Papers**
 
 * **One-shot vs. competitions phonotactics in modeling constraint cumulativity**. *Annual Meeting in Phonology (AMP) Proceedings paper*. [<a href="/assets/amp2024abstract.pdf" target="_blank">abstract</a>] [<a href="/assets/amp2024slides.pdf" target="_blank">slides</a>] [[proceedings](https://openpublishing.library.umass.edu/amphonology/article/id/3013/)]
-
 This work details the computational properties of two different maximum entropy model architectures, which I call ''one-shot'' and ''multiple competitions'' models of phonotactics. This work describes the findings for counting cumulativity -- multiple vilolations of the same phonotactic pattern.
 
-* **Young infants' sensitivity to cumulative phonotactic violations**. *In prep*.
-
-This paper finds that 5-month-old and 8-month-old infants are able to tell apart words with zero, one, and two violations of phonotactic constraints. We tested infants using a visual preference experiment paradigm using noncewords with zero, one, and two violations of nasal place assimilation, a phonotactic pattern attested in many languages such as English, Spanish, and Japanese. 
+* **Young infants are sensitive to accumulating phonotactic violations**. *In prep*, with Megha Sundara.
+In this paper we find that 5-month-old and 8-month-old infants are able to tell apart words with zero, one, and two violations of phonotactic constraints. 
 
 ## Paraguayan Guarani
 
