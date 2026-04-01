@@ -24,7 +24,7 @@ My research on Paraguayan Guarani centers on the language's nasalization system.
 
 **Papers**
 
-* **Paraguayan Guarani progressive nasalization as phonologically conditioned allomorphy** *Submitted*. [<a href="/assets/prog-paper.pdf" target="_blank">paper</a>]
+* **Paraguayan Guarani progressive nasalization as phonologically conditioned allomorphy** *Submitted*. [<a href="/assets/guarani-progharm-submission.pdf" target="_blank">paper</a>]
 
 * **Suffix independence in Paraguayan Guarani: stress, nasality and nasalization**. *Under review*. [paper]
 
