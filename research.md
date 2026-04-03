@@ -24,9 +24,9 @@ My research on Paraguayan Guarani centers on the language's nasalization system.
 
 **Papers**
 
-* **Paraguayan Guarani progressive nasalization as phonologically conditioned allomorphy** *Submitted*. [<a href="/assets/guarani-progharm-submission.pdf" target="_blank">paper</a>]
+* **Paraguayan Guarani progressive nasalization as phonologically conditioned allomorphy.** *Submitted*. [<a href="/assets/guarani-progharm-submission.pdf" target="_blank">paper</a>]
 
-* **Suffix independence in Paraguayan Guarani: stress, nasality and nasalization**. *Under review*. [paper]
+* **Suffix independence in Paraguayan Guarani: stress, nasality and nasalization**. *Under review*. [<a href="/assets/pda-guarani-suff-notemp.pdf" target="_blank">paper</a>]
 
 * **Realizations of the tritonal pitch accent in Paraguayan Guarani**, with Sun-Ah Jun, Jian-Leat Siah, and Hunter Johnson. *Poster and proceedings paper at International Congress of Phonetic Sciences (ICPhS)*. [<a href="/assets/jun-siah-cabrera-johnson-poster.pdf" target="_blank">poster</a>] [[proceedings](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/109.pdf)]
 
